@@ -1,4 +1,4 @@
-## Eae, tudo suave! Eu sou o Falco 😁
+## Eae, tudo bem! Eu sou o Falco 😁
 
 Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades para aprender. 🚀
 
