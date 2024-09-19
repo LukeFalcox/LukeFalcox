@@ -8,6 +8,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1286307053085659186/1286307053085659190)
 
 ![LukeFalcox GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeFalcox&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeFalcox)](https://github.com/LukeFalcox/github-readme-stats)
 
 
