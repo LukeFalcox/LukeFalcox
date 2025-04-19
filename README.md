@@ -11,15 +11,13 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeFalcox)](https://github.com/LukeFalcox/github-readme-stats)
 
-
 ## 🛠 Tecnologias que eu uso diariamente
 
 <div>
-    <img align='center' alt='flutter' src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
-    <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-    <img align='center' alt='html' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-    <img align='center' alt='css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-    <img align='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+    <img align='center' alt='Java' src='https://img.shields.io/badge/Java-02569B?style=for-the-badge&logo=Java&logoColor=white'>
+    <img align='center' alt='SpringBoot' src='https://img.shields.io/badge/SpringBoot-20232A?style=for-the-badge&logo=SpringBoot&logoColor=61DAFB'>
+    <img align='center' alt='Docker' src='https://img.shields.io/badge/Docker-E34F26?style=for-the-badge&logo=Docker&logoColor=white'>
+    <img align='center' alt='postgresql' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </div><br/>
 
 ## 🧰 Tecnologias que eu já usei em alguns projetos
@@ -28,10 +26,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
     <img align='center' alt='flutter' src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
     <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
     <img align='center' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-    <img align='center' alt='postgresql' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
-    <img align='center' alt='html' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-    <img align='center' alt='css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-    <img align='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
     <img align='center' alt='nodejs' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
 </div><br/>
 
@@ -40,7 +34,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 Programo desde os 14 anos, quando comecei a criar pequenas coisas com HTML, CSS e JavaScript, como telas de cards, formulários e animações 🎨💻. Atualmente, estou focado no meu TCC 😵‍💫, que consiste em desenvolver um aplicativo de freelancer voltado para alunos e empresas. A ideia é que estudantes de cursos técnicos possam ganhar seu próprio dinheiro 💰 e ter a oportunidade de serem contratados 🎯. A apresentação desse projeto será no dia 25/09/2024, na Fito 🏫🥳.
 
 ## 📌 Últimos Projetos:
+
 - [CyberFreelancer - Flutter & Firebase](https://github.com/LukeFalcox/App-Freelancer) - Aplicativo que conecta estudantes de cursos técnicos com oportunidades de freelancing.</br>
-- [Projeto de Consumo de API - Flutter & API](https://github.com/LukeFalcox/Projeto-Api) - Projeto que demonstra o consumo de APIs utilizando Flutter.</br>
-- [Tela de Configurações - Flutter & Firebase](https://github.com/LukeFalcox/SettingsScreen) - Tela de configurações integrada com Firebase para autenticação e armazenamento de dados.</br>
-- [Tela de Chat - Flutter & Firebase](https://github.com/LukeFalcox/Chat-Menssager) - Aplicativo de chat em tempo real utilizando Flutter e Firebase.</br>
+- [PagPy](https://github.com/LukeFalcox/java_host/tree/main/Projetos/Pessoais/Desafios/pagpy) - Projeto este feito a partir de um desafio tecnico.</br>
